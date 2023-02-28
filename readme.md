@@ -2,7 +2,7 @@
 
 ## Change the css of your Etherpad using Chrome
 
-This is an instruction on how to get your Etherpad looking like this:
+This is an instruction on how to get your Etherpad filling the screen for use on a projector or large monitor, and getting rid of noisy elements like chat, header, users, etc.
 
 1. Open Chrome and go to your Etherpad
 2. Right click anywhere on the page and click 'Inspect' in the menu.
@@ -28,4 +28,4 @@ You can then fullscreen (F11 or find it in the menu) and Zoom by using Ctrl + an
 
 ## Using images, video or other fancy stuff
 
-If your institution does not support images, etc, you can go here: https://github.com/ether/etherpad-lite and scroll down to 'Try it out' and try the 'Images' link (https://image.etherpad.com/). Remember that this Etherpad will self destruct in 24 hours, so you should save it by downloading a html version and / or pdf when your are done using it for the day.
+If your institution does not support images, etc, you can go here: https://github.com/ether/etherpad-lite and scroll down to 'Try it out' and try the 'Images' link (and the other stuff). Remember that this Etherpad will self-destruct in 24 hours, so you should save it by downloading a html version and / or pdf when you ' re done using it for the day.
