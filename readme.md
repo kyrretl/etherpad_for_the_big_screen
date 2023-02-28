@@ -13,7 +13,7 @@ click the top most link to the url of the css sheet (should have a name like pad
 Inside the css sheet, scroll down to the very bottom and paste in the css code below:
 
 
-``.stickyUsers {
+.stickyUsers {
     display:none !important;
 }
 
@@ -32,7 +32,7 @@ Inside the css sheet, scroll down to the very bottom and paste in the css code b
 
 ::-webkit-scrollbar {
     display: none !important;
-}``
+}
 
 Close the inspector window by clicking on the 'x' in the top left corner of the inspector window or with F12 key
 
