@@ -4,13 +4,11 @@
 
 This is an instruction on how to get your Etherpad looking like this:
 
-
-Open Chrome and go to your Etherpad
-Right click anywhere on the page and click 'Inspect' in the menu.
-In the style window, at the bottom of the inspector window,
-click the top most link to the url of the css sheet (should have a name like pad.css?v=0ef44da0)
-
-Inside the css sheet, scroll down to the very bottom and paste in the css code below:
+1. Open Chrome and go to your Etherpad
+2. Right click anywhere on the page and click 'Inspect' in the menu.
+3. In the style window, at the bottom of the inspector window,
+4. click the top most link to the url of the css sheet (should have a name like pad.css?v=0ef44da0)
+5. Inside the css sheet, scroll down to the very bottom and paste in the css code below:
 
 
 .stickyUsers { display:none !important; }
