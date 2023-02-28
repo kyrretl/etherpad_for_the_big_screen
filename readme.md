@@ -11,7 +11,7 @@ This is an instruction on how to get your Etherpad looking like this:
 5. Inside the css sheet, scroll down to the very bottom and paste in the css code below:
 
 
-    ``.stickyUsers { display:none !important; }
+    `` .stickyUsers { display:none !important; }
 
     #chatbox, #editbar{ display:none !important; }
 
@@ -19,7 +19,7 @@ This is an instruction on how to get your Etherpad looking like this:
 
     #editorcontainer{ height: inherit !important; }
 
-    ::-webkit-scrollbar { display: none !important; }``
+    ::-webkit-scrollbar { display: none !important; } ``
 
 
 Close the inspector window by clicking on the 'x' in the top left corner of the inspector window or with F12 key
